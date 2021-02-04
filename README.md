@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**Samaritan1011001/Samaritan1011001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Manoj Narayan Bisarahalli
+## Engineering Intern, Very Good Ventures
 
-Here are some ideas to get you started:
+[![Very Good Ventures](https://github.com/VGVentures/Very-Good-Brand/raw/main/logos/icon-unicorn/unicorn-vgv-black-inset-round.png)](https://verygood.ventures)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+My name is Manoj, and I am an Engineering Intern at [Very Good Ventures](https://verygood.ventures)
+
+- 🔭  I’m currently working on projects of interest to [Very Good Ventures](https://github.com/VGVentures)
+- 👯  I’m looking to connect and network
+- 💬  Ask me about building [Flutter](https://flutter.dev) apps or my experience with it
+- 📫  How to reach me: [LinkedIn](https://www.linkedin.com/in/manoj-b-n/)
+
