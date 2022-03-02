@@ -1,5 +1,5 @@
 
-# Manoj Narayan Bisarahalli
+# Manoj NB
 <!-- ## Engineering Intern, Very Good Ventures
 
 [![Very Good Ventures](https://github.com/VGVentures/Very-Good-Brand/raw/main/logos/icon-unicorn/unicorn-vgv-black-inset-round.png)](https://verygood.ventures)
